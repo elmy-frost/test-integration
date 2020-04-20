@@ -43,9 +43,9 @@ Will watch for changes in `dist` folder
 
 ## To do
 
-Use `index.html` and `app.scss` to build the page showed in `layout.jpg`.
-See `layout-with-grid.jpg` to get some hints on sizes.
-Take 1h30 / 2h to do as much as you can, we don't expect a 100% finalized nor pixel perfect work here
+Use `index.html` and `app.scss` to build the page showed in `layout.jpg`.  
+See `layout-with-grid.jpg` to get some hints on sizes.  
+Take 1h30 / 2h to do as much as you can, we don't expect a 100% finalized nor pixel perfect work here.  
 Just spare some time to write some js in `app.js`, just enough to make the gif included in `index.html` appear on click on an element (like the "J'estime ma facture" button) :)
 
 
