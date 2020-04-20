@@ -25,6 +25,7 @@ Will watch for changes in `dist` folder
 
 ## Files
 
+```
 .
 ├── assets
 │   ├── fonts  // Fonts already included
@@ -38,6 +39,7 @@ Will watch for changes in `dist` folder
 ├── gulpfile.js
 ├── package.json
 └── .babelrc
+```
 
 ## To do
 
