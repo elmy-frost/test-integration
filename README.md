@@ -1,6 +1,6 @@
 # HTML / SCSS / JS Test
 
-![Layout](layout.jpg)
+![Layout](layout.png)
 ![Layout with grid](layout-with-grid.jpg)
 
 ## Commands
