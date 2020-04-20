@@ -1,7 +1,7 @@
 # HTML / SCSS / JS Test
 
-![Layout](layout.png)
-![Layout with grid](layout-with-grid.jpg)
+![Layout](./layout.png)
+![Layout with grid](./layout-with-grid.jpg)
 
 ## Commands
 ### Init project
