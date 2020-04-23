@@ -1,6 +1,11 @@
 # HTML / SCSS / JS Test
 
+The goal of this test is to reproduce the following design. 
+
 ![Layout](./layout.png)
+
+Here is the version with the grid
+
 ![Layout with grid](./layout-with-grid.jpg)
 
 ## Commands
